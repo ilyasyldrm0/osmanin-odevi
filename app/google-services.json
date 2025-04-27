@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697925996255",
+    "project_id": "osman-odev",
+    "storage_bucket": "osman-odev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697925996255:android:5d0860b001d2052784e36a",
+        "android_client_info": {
+          "package_name": "com.osman.osman_odevi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5BJb9uqt7JliAfnr8vse9zFTE6cYRzp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
